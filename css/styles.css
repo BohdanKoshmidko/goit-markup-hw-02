@@ -31,6 +31,10 @@ color: #2196F3;
 .site-nav .link:focus {
     color: #2196F3;
 }
+.site-nav .link.current {
+    color: #2196F3;
+}
+
 /* site address*/
 .site-address .link {
     color: #757575;
@@ -51,5 +55,10 @@ color: #2196F3;
 
 /*Feature*/
 .feature-list .title {
+    color: #212121;
+}
+
+/* Team*/
+.section .name-title {
     color: #212121;
 }

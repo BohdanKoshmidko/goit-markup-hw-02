@@ -51,13 +51,14 @@ body {
     letter-spacing: 0.02em;
     text-decoration: none;
 }
+
 .site-address .link:hover,
 .site-address .link:focus {
     color: #2196F3;
 }
+
 /* Hero*/
-.hero-title {
-    color: #FFFFFF
+.hero .title {
     font-weight: 900;
     font-size: 44px;
     line-height: 1.36;
